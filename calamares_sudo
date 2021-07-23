@@ -1,0 +1,4 @@
+#!/bin/bash
+# Calls Calamares with sudo. Additionally sets the default theme 
+# to the Heera theme.
+/usr/bin/env sudo QT_QPA_PLATFORMTHEME=heera /usr/bin/calamares
