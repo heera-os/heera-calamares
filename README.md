@@ -1,6 +1,7 @@
 <!-- SPDX-FileCopyrightText: no
      SPDX-License-Identifier: CC0-1.0
 -->
+##This repo is forked from calamares repo  ```https://github.com/calamares/calamares```
 
 # Calamares: Distribution-Independent Installer Framework
 ---------
